@@ -85,15 +85,6 @@ The dataset contains information such as:
 - NumPy Calculations
 - Matplotlib Charts
 
----
-
-## 📷 Project Preview
-
-(Add screenshots of charts here)
-
----
-
----
 
 ## 👨‍💻 Author
 
