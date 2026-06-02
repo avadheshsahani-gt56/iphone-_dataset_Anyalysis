@@ -93,15 +93,6 @@ The dataset contains information such as:
 
 ---
 
-## 📁 Project Structure
-
-iPhone-Sales-Data-Analysis/
-│
-├── iphone_dataset_analysis.ipynb
-├── iphone_sales.csv
-├── screenshots/
-├── README.md
-
 ---
 
 ## 👨‍💻 Author
